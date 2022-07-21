@@ -1,0 +1,59 @@
+2022-07-21T23:58:25 class: juniorTechTask.utils.DriverUtil method: instanceWebDriver() INFO: Create WebDriver
+2022-07-21T23:58:25 class: juniorTechTask.utils.GsonParser method: parseConfig() INFO: parse file src\main\resources\config.json
+2022-07-21T23:58:25 class: juniorTechTask.utils.GsonParser method: parseConfig() INFO: parse file src\main\resources\config.json
+2022-07-21T23:58:25 class: juniorTechTask.utils.GsonParser method: parseTestData() INFO: parse file src\test\resources\testData.json
+2022-07-21T23:58:25 class: juniorTechTask.DriverManager method: openURL() INFO: Open website: https://www.booking.com/index.en-us.html
+2022-07-21T23:58:25 class: juniorTechTask.pages.BaseForm method: isPageOpened() INFO: Checking if the Main Page is open
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getText() INFO: Get text from Language Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Language Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Search input text field where are you going
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Search input text field where are you going
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Search input text field where are you going
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getAttribute() INFO: Get attribute value
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Search input text field where are you going
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Open Calendar Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Open Calendar Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Open Calendar Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: isNotDisplayed() INFO: Сheck if the element is not displayed
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElements() INFO: Create elementsMonth Year Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: isNotDisplayed() INFO: Сheck if the element is not displayed
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElements() INFO: Create elementsMonth Year Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: isNotDisplayed() INFO: Сheck if the element is not displayed
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElements() INFO: Create elementsMonth Year Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: isNotDisplayed() INFO: Сheck if the element is not displayed
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElements() INFO: Create elementsMonth Year Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Next Month Button For Calendar
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: isNotDisplayed() INFO: Сheck if the element is not displayed
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElements() INFO: Create elementsMonth Year Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Data
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Data
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: isNotDisplayed() INFO: Сheck if the element is not displayed
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElements() INFO: Create elementsMonth Year Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Data
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Data
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getText() INFO: Get text from Chosen Check In
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Chosen Check In
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getText() INFO: Get text from Chosen Check Out
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Chosen Check Out
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: click() INFO: Click on element Search Button
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Search Button
+2022-07-21T23:58:25 class: juniorTechTask.pages.BaseForm method: isPageOpened() INFO: Checking if the Search Results Page is open
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getAttribute() INFO: Get attribute value
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Destination
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getText() INFO: Get text from Check In Date
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Check In Date
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: getText() INFO: Get text from Check Out Date
+2022-07-21T23:58:25 class: juniorTechTask.elements.BaseElement method: findElement() INFO: Create element Check Out Date
+2022-07-21T23:58:25 class: juniorTechTask.DriverManager method: closeBrowser() INFO: Close browser
+2022-07-21T23:58:25 class: juniorTechTask.utils.DriverUtil method: stopWebDriver() INFO: Stop WebDriver
